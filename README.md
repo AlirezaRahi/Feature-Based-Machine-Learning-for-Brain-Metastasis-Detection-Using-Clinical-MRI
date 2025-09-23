@@ -18,6 +18,10 @@ A machine learning pipeline for detecting brain metastases from T1-pre and T1-po
 
 This project implements a comprehensive machine learning pipeline for detecting brain metastases from MRI scans. The system processes T1-pre and T1-post contrast MRI images, extracts advanced radiomic features, and employs ensemble learning techniques with cross-validation to achieve high diagnostic accuracy.
 
+**Publication**: [Feature-Based Machine Learning for Brain Metastasis Detection Using Clinical MRI](https://www.medrxiv.org/content/10.1101/2025.09.22.25336307v1)  
+**DOI**: https://doi.org/10.1101/2025.09.22.25336307  
+**Publication Date**:  September 22, 2025
+
 ## Features
 
 - **Advanced Image Processing**: Automated cropping, padding, and normalization of 3D MRI volumes
