@@ -152,11 +152,14 @@ For permissions beyond the scope of this license, please contact the author dire
 
 ## Citation
 
-If you use this code or methodology in your research, please cite:
+If you use this work in your research, please cite the paper:
 
-```
-Rahi, A., & Shafiabadi, M. H. (2023). Brain Metastasis Detection from MRI Using Advanced Feature Extraction and Ensemble Learning. [Computer software]. Retrieved from https://github.com/AlirezaRahi/brain-mets-detection
-```
+> **Rahi, A., & Shafiabadi, M. H.** (2025). *Feature-Based Machine Learning for Brain Metastasis Detection Using Clinical MRI*. medRxiv. September 22, 2025. https://doi.org/10.1101/2025.09.22.25336307
+
+If you use the code implementation (software, scripts, etc.), please also cite:
+
+> **Rahi, A., & Shafiabadi, M. H.** (2025). *Feature-Based Machine Learning for Brain Metastasis Detection Using Clinical MRI* [Computer software]. GitHub repository, *AlirezaRahi/Feature-Based-Machine-Learning-for-Brain-Metastasis-Detection-Using-Clinical-MRI*. Retrieved from https://github.com/AlirezaRahi/Feature-Based-Machine-Learning-for-Brain-Metastasis-Detection-Using-Clinical-MRI
+
 
 ## Authors
 
