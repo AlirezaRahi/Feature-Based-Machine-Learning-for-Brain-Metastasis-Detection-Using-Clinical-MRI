@@ -12,7 +12,7 @@ A machine learning pipeline for detecting brain metastases from T1-pre and T1-po
 - [Results](#results)
 - [License](#license)
 - [Citation](#citation)
-- [Authors](#authors)
+- [Author](#author)
 
 ## Overview
 
