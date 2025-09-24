@@ -170,11 +170,6 @@ Email: Alireza.rahi@outlook.com
 LinkedIn: [https://www.linkedin.com/in/alireza-rahi-6938b4154/](https://www.linkedin.com/in/alireza-rahi-6938b4154/)  
 GitHub: [https://github.com/AlirezaRahi](https://github.com/AlirezaRahi)  
 
-### Dr. Mohammad Hossein Shafiabadi
-**Co-author / Advisor**  
-Department of Computer Engineering, Islamic Azad University, Islamshahr Branch  
-Islamshahr, Iran  
-Email: mh.shafiabadi@iau.ac.ir  
 
 ## Acknowledgments
 
