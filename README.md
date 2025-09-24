@@ -158,7 +158,7 @@ If you use this work in your research, please cite the paper:
 
 If you use the code implementation (software, scripts, etc.), please also cite:
 
-> **Rahi, A.(2025). *Feature-Based Machine Learning for Brain Metastasis Detection Using Clinical MRI* [Computer software]. GitHub repository, *AlirezaRahi/Feature-Based-Machine-Learning-for-Brain-Metastasis-Detection-Using-Clinical-MRI*. Retrieved from https://github.com/AlirezaRahi/Feature-Based-Machine-Learning-for-Brain-Metastasis-Detection-Using-Clinical-MRI
+> **Rahi, A.**(2025). *Feature-Based Machine Learning for Brain Metastasis Detection Using Clinical MRI* [Computer software]. GitHub repository, *AlirezaRahi/Feature-Based-Machine-Learning-for-Brain-Metastasis-Detection-Using-Clinical-MRI*. Retrieved from https://github.com/AlirezaRahi/Feature-Based-Machine-Learning-for-Brain-Metastasis-Detection-Using-Clinical-MRI
 
 
 ## Authors
